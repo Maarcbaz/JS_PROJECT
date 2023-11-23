@@ -1,0 +1,13 @@
+#subscribeBtn,
+#visaCard,
+#masterCard,
+#payPal {
+    
+}
+
+span {
+    color: #fff;
+    background-color: #231121;
+    display: block;
+    max-width: 100% !important;
+}
